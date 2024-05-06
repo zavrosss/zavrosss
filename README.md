@@ -1,18 +1,3 @@
-<h1 align="center">Hi 👋, I'm zavrosss</h1>
-<h3 align="center">A amateur Back-end developer from Poland! 🔥</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zavrosss" alt="zavrosss" /></a> </p>
-
-- 🔭 I’m currently working on **Simple JavaFX Calculator**
-
-- 🌱 I’m currently learning **JavaFX, MongoDB and Rust!**
-
-- 👨‍💻 All of my projects are available at [https://zavrosss.github.io/Portfolio/](https://zavrosss.github.io/Portfolio/)
-
-- 📫 How to reach me **zavrosss#8488**
-
-- ⚡ Fun fact **Former hockey player (Junior)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/robert-warzecha-7875a6227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/robert-warzecha-7875a6227/" height="30" width="40" /></a>
